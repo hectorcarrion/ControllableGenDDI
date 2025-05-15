@@ -5,7 +5,8 @@ This repository is the official implementation of **cgDDI: Controllable Generati
 ## Healthy Synthetics
 
 To generate healthy synthetics please run `healthy_gen.ipynb`.
-Please remember to fetch the original DDI dataset at https://ddi-dataset.github.io/ (as we are not allowed to re-host that imagery) and the sDDI masks from https://github.com/hectorcarrion/FEDD.
+
+We do not re-host previous artifacts, thus remember to **fetch the original DDI dataset** at https://ddi-dataset.github.io/ and the **sDDI masks from** https://github.com/hectorcarrion/FEDD.
 
 ```train
 python train.py --input-data <path_to_data> --alpha 10 --beta 20
