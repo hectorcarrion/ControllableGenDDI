@@ -2,7 +2,7 @@
 
 This repository is the official implementation of **cgDDI: Controllable Generation of Diverse Dermatological Imagery for Fair and Efficient Malignancy Classification** which is currently under review. As this paper is not currently on Arxiv, the detail here will be minimal.
 
-**NOTE:** As the notebooks include visualized results, they may not load direclty on github, please open locally (or on colab) if this happens.
+**NOTE:** As the notebooks include visualized results, they may not load direclty on github, please open locally (or on colab) if this happens. The code was originally run on Colab, which comes with the majority of requirements, if the base colab image does not contain a requirement, the notebook includes a `!pip install` call with any missing packages.
 
 ## Healthy Synthetics
 
@@ -19,7 +19,9 @@ To generate lesion mapped images please run `lession_mapping.ipynb`
 To train the Textual Inversion model please run `textual_inversion.ipynb`.
 Note that you must provide a CSV of the downloaded DDI data you fetched in the previous step, with disease mapping from the original data (if desired) as included on the notebook.
 
-## Evaluation
+## LoRA fine-tuning
+
+
 
 To evaluate my model on ImageNet, run:
 
