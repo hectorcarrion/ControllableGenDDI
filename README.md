@@ -2,6 +2,8 @@
 
 This repository is the official implementation of **cgDDI: Controllable Generation of Diverse Dermatological Imagery for Fair and Efficient Malignancy Classification** which is currently under review. As this paper is not currently on Arxiv, the detail here will be minimal.
 
+**NOTE:** As the notebooks include visualized results, they may not load direclty on github, please open locally (or on colab) if this happens.
+
 ## Healthy Synthetics
 
 To generate healthy synthetics please run `healthy_gen.ipynb`.
