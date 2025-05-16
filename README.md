@@ -10,6 +10,10 @@ To generate healthy synthetics please run `healthy_gen.ipynb`.
 
 We do not re-host previous artifacts, thus remember to **fetch the original DDI dataset** at https://ddi-dataset.github.io/ and the **sDDI masks from** https://github.com/hectorcarrion/FEDD.
 
+## Lession Mapping
+
+To generate lesion mapped images please run ``
+
 ## Textual Inversion
 
 To train the Textual Inversion model please run `textual_inversion.ipynb`.
