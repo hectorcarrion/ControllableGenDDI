@@ -31,4 +31,9 @@ To fine-tune with your text-inversion disease special tokens, please run `train_
 
 To sample semantic synthetics, please run `semantic_sampling.ipynb`
 
+## Classificaiton and Fairness
 
+To run classification experiments please see https://github.com/aayushmanace/PatchAlign24
+Download cgDDI data and csv, replace input directories with these directories. Ensure to drop any rows of lession-mapped imagery which has been generated with prompts inside the test set.
+
+Thanks for reading! More detail and code cleanup to be added overtime as the paper and method become public.
