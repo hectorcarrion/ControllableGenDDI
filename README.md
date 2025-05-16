@@ -27,7 +27,7 @@ Note that you must provide a CSV of the downloaded DDI data you fetched in the p
 
 To fine-tune with your text-inversion disease special tokens, please run `train_lora.ipynb`
 
-## Semantic Syntheticssem
+## Semantic Synthetics
 
 To sample semantic synthetics, please run `semantic_sampling.ipynb`
 
