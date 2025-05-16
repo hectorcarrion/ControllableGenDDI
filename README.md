@@ -12,7 +12,7 @@ We do not re-host previous artifacts, thus remember to **fetch the original DDI 
 
 ## Lession Mapping
 
-To generate lesion mapped images please run ``
+To generate lesion mapped images please run `lession_mapping.ipynb`
 
 ## Textual Inversion
 
