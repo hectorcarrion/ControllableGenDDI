@@ -37,3 +37,7 @@ To run classification experiments please see https://github.com/aayushmanace/Pat
 Download cgDDI data and csv, replace input directories with these directories. Ensure to drop any rows of lession-mapped imagery which has been generated with prompts inside the test set.
 
 Thanks for reading! More detail and code cleanup to be added overtime as the paper and method become public.
+
+## Acknoledgements
+
+We thank HuggingFace Transformers for their implementations of many popular methods, [Skin-Diff]([url](https://github.com/janet-sw/skin-diff/tree/main)), [FairDisCo]([url](https://github.com/siyi-wind/FairDisCo)) and [PathAlign]([url](https://github.com/aayushmanace/PatchAlign24)) for providing a base upon which we build this repo.
