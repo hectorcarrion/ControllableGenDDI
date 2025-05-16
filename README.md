@@ -40,4 +40,4 @@ Thanks for reading! More detail and code cleanup to be added overtime as the pap
 
 ## Acknoledgements
 
-We thank HuggingFace Transformers for their implementations of many popular methods, [Skin-Diff]([url](https://github.com/janet-sw/skin-diff/tree/main)), [FairDisCo]([url](https://github.com/siyi-wind/FairDisCo)) and [PathAlign]([url](https://github.com/aayushmanace/PatchAlign24)) for providing a base upon which we build this repo.
+We thank HuggingFace Transformers for their implementations of many popular methods, [Skin-Diff](https://github.com/janet-sw/skin-diff/tree/main), [FairDisCo](https://github.com/siyi-wind/FairDisCo) and [PathAlign](https://github.com/aayushmanace/PatchAlign24) for providing a base upon which we build this repo.
