@@ -21,6 +21,8 @@ Note that you must provide a CSV of the downloaded DDI data you fetched in the p
 
 ## LoRA fine-tuning
 
+To fine-tune with your text-inversion disease special tokens, please run `train_lora.ipynb`
+
 
 
 To evaluate my model on ImageNet, run:
