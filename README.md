@@ -42,7 +42,7 @@ Thanks for reading! More detail and code cleanup to be added overtime as the pap
 
 Models can be found at the following links:
 
-REDACTED FOR ANONYMITY
+Redacted for anonymity and the difficulty of hosting so many models fully anonymously. These will be released upon acceptance.
 
 ## Usage Terms
 We release this data, code and models with the intent of academic use and to promote fairness research. We do not allow un-ethical usage of these artifacts.
