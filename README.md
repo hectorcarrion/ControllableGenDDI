@@ -6,7 +6,7 @@ This repository is the official implementation of **cgDDI: Controllable Generati
 
 ## Dataset
 
-Our dataset can be found on https://huggingface.co/datasets/hcarrion/ControllabeGenDDI
+Our dataset can be found on https://huggingface.co/datasets/hcarrion/ControllableGenDDI
 
 ## Healthy Synthetics
 
