@@ -20,13 +20,13 @@ The MICCAI 2026 camera-ready PDF is hosted directly in this repository: **[Paper
 
 ## Key Results
 
-### Malignancy classification on DDI, following FairDisCo strategy
+### Malignancy classification on DDI, following PatchAlign strategy
 
 | Method | Mean Acc. | Light | Med. | Dark | PQD | DPM | EOM |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Baseline (Real) | 82.4 | 83.3 | 74.6 | 89.7 | 77.0 | 75.2 | 58.7 |
 | FairDisCo | 83.8 | 88.6 | 71.7 | 92.0 | 78.0 | 72.8 | 63.7 |
-| PatchAlign (prior SOTA) | 87.4 | 89.6 | 80.3 | 92.3 | 86.9 | 74.9 | 69.6 |
+| PatchAlign | 87.4 | 89.6 | 80.3 | 92.3 | 86.9 | 74.9 | 69.6 |
 | **cgDDI (synth only)** | 86.4 | 88.9 | **84.1** | 86.0 | **94.6** | **82.0** | 81.9 |
 | **cgDDI (synth + real)** | **90.9** | **93.3** | **86.4** | **93.0** | 92.5 | 68.8 | **86.6** |
 
