@@ -20,7 +20,7 @@ The MICCAI 2026 camera-ready PDF is hosted directly in this repository: **[Paper
 
 ## Key Results
 
-### Malignancy classification on DDI (mean over 5-fold CV)
+### Malignancy classification on DDI, following FairDisCo strategy
 
 | Method | Mean Acc. | Light | Med. | Dark | PQD | DPM | EOM |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
