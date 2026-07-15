@@ -1,7 +1,7 @@
 # [MICCAI 26] cgDDI: Controllable Generation of Diverse Dermatological Imagery for Fair and Efficient Malignancy Classification
 
 [![Paper](https://img.shields.io/badge/Paper-MICCAI%202026-b31b1b.svg?logo=adobeacrobatreader&logoColor=white)](Paper-1473.pdf)
-[![arXiv](https://img.shields.io/badge/arXiv-Sept%202027-lightgrey.svg?logo=arxiv&logoColor=white)](#paper-availability)
+[![arXiv](https://img.shields.io/badge/arXiv-2607.12987-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.12987)
 [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-ControllableGenDDI-yellow)](https://huggingface.co/datasets/hcarrion/ControllableGenDDI)
 [![Models](https://img.shields.io/badge/%F0%9F%A4%97%20Models-Per--Disease%20Checkpoints-yellow)](#per-disease-model-checkpoints)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -16,7 +16,7 @@ Accurate dermatological diagnosis naturally necessitates equitable performance a
 
 ## Paper Availability
 
-The MICCAI 2026 camera-ready PDF is hosted directly in this repository: **[Paper-1473.pdf](Paper-1473.pdf)**. The arXiv version is **embargoed by Springer until approximately September 2027** (one year after open-access publication at MICCAI 2026). The version-of-record will appear in the *Lecture Notes in Computer Science* proceedings volume shortly before the conference (Sept 27 – Oct 1, 2026, Strasbourg).
+The MICCAI 2026 camera-ready PDF is hosted directly in this repository — **[Paper-1473.pdf](Paper-1473.pdf)** — and the paper is also on **arXiv: [2607.12987](https://arxiv.org/abs/2607.12987)**. The version of record will appear in the *Lecture Notes in Computer Science* proceedings volume shortly before the conference (Sept 27 – Oct 1, 2026, Strasbourg); the arXiv listing will be updated with the final Springer DOI once published.
 
 ## Key Results
 
@@ -173,7 +173,9 @@ We thank the open-source communities behind [HuggingFace Diffusers](https://gith
   booktitle = {Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
   year      = {2026},
   publisher = {Springer},
-  series    = {Lecture Notes in Computer Science}
+  series    = {Lecture Notes in Computer Science},
+  eprint    = {2607.12987},
+  archivePrefix = {arXiv}
 }
 ```
 
